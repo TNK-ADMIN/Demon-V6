@@ -1,5 +1,5 @@
 ﻿{
-    "token": "MTAwODY1MzkxNjU0OTk0NzQ2Mg.GHjKgP.ESfCO9lm5e0CN_dyUTlLSWRZR4CIWdjXPetpkE",
+    "token": "Token Bot",
     "prefix": ".",
     "multilang": {
         "languages": ["English", "Português"]
@@ -9,10 +9,10 @@
         "type": "STREAMING",
         "url": "https://twitch.tv/PANDA"
     },
-    "admins": ["857004981126955008", " "],
+    "admins": ["Admin1", "admin2"],
     "channels": {
-        "logs": "1009020357014994964",
-        "error": "1009020357014994964"
+        "logs": "room id",
+        "error": "room id"
     },
     "methods": {
     	"layer7": ["CF_UAM", "JS_PROXY", "CLOUD_JS", "CLOUD_UAM", "SOCKETS", "HTTP_GET", "HTTP_PPS", "HTTP_GHP", "HTTP_HEAD", "HTTP_HEX", "HTTP_MAX", "HTTP_POST", "HTTP_FLOW", "HTTP_NULL", "HTTP_RAND", "HTTP_SKULL", "HTTP_COOKIE", "COLLAPSE"],
